@@ -8,8 +8,18 @@ h1 {
     font-size: 64px;
 }
 
-ul {
+h2 {
+    color: purple;
+}
+
+h3 {
+    text-decoration: underline;
+    color:rgb(12, 224, 224);
+}
+
+ul.home {
     margin-left: 10%;
+    font-size: 28px;
 }
 
 li {
