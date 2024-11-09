@@ -8,3 +8,11 @@ h1 {
     font-size: 64px;
 }
 
+ul {
+    margin-left: 10%;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
