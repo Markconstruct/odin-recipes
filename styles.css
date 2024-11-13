@@ -13,9 +13,6 @@ h1 {
     color: rgb(66, 135, 245);
     text-align: center;
     font-size: 64px;
-    margin: 12px auto;
-    border: 2px dotted black;
-    
 }
 
 h2 {
@@ -43,5 +40,11 @@ li {
     background-color: rgb(202, 199, 199);
     margin: 0 auto;
     padding: 16px 8px;
+}
+
+.heading {
+    margin: 12px auto;
+    border: 2px dotted black;
+    width: 600px;
 }
 
